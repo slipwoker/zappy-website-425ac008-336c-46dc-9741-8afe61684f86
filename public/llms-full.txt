@@ -2,13 +2,13 @@
 
 Maor Cohen is a personal fitness trainer based in Sderot, Israel, with 3 years of experience and over 100 satisfied clients. His brand is built around luxury fitness aesthetics — dark, bold, and powerful — inspired by leading global fitness brands. The website aims to showcase real before-and-after transformations, build trust and credibility, and convert visitors into leads via WhatsApp. The brand communicates confidence, professionalism, and life-changing results through a premium black and neon green visual identity with smooth animations and a fully RTL Hebrew experience.
 
-Source: https://-425ac008.zappy5.app
+Source: https://example.com
 
 ---
 
 ## שנה את הגוף שלך לנצח — מאור כהן
 
-URL: https://-425ac008.zappy5.app
+URL: https://example.com
 Description: מאור כהן, מאמן כושר אישי בשדרות עם מעל 100 לקוחות מרוצים. תוכניות אימון אישיות שמביאות תוצאות אמיתיות. צור קשר עכשיו בוואטסאפ ותתחיל את המסע שלך!
 
 שנה את הגוף שלך לנצח — מאור כהן
@@ -803,7 +803,7 @@ VIP
 
 ## מדיניות פרטיות
 
-URL: https://-425ac008.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1007,7 +1007,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-425ac008.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1220,7 +1220,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-425ac008.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
