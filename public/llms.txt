@@ -1,0 +1,66 @@
+# מאור כהן — Generative Engine Optimization Map
+
+> Maor Cohen is a personal fitness trainer based in Sderot, Israel, with 3 years of experience and over 100 satisfied clients. His brand is built around luxury fitness aesthetics — dark, bold, and powerful — inspired by leading global fitness brands. The website aims to showcase real before-and-after transformations, build trust and credibility, and convert visitors into leads via WhatsApp. The brand communicates confidence, professionalism, and life-changing results through a premium black and neon green visual identity with smooth animations and a fully RTL Hebrew experience.
+
+---
+
+## Pages
+
+### בית
+https://-425ac008.zappy5.app
+מאור כהן, מאמן כושר אישי בשדרות עם מעל 100 לקוחות מרוצים. תוכניות אימון אישיות שמביאות תוצאות אמיתיות. צור קשר עכשיו בוואטסאפ ותתחיל את המסע שלך!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-425ac008.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-425ac008.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-425ac008.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-425ac008.zappy5.app
+- Endpoint: https://-425ac008.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מאור כהן
+Maor Cohen is a personal fitness trainer based in Sderot, Israel, with 3 years of experience and over 100 satisfied clients. His brand is built around luxury fitness aesthetics — dark, bold, and powerful — inspired by leading global fitness brands. The website aims to showcase real before-and-after transformations, build trust and credibility, and convert visitors into leads via WhatsApp. The brand communicates confidence, professionalism, and life-changing results through a premium black and neon green visual identity with smooth animations and a fully RTL Hebrew experience.
+
+## Target Audience
+- אנשים המעוניינים לשפר כושר גופני, לרדת במשקל ולבנות אורח חיים בריא באזור שדרות
+- חובבי כושר בשדרות
+- מחפשי ירידה במשקל
+
+## Industry
+Fitness & Personal Training
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-425ac008.zappy5.app/sitemap.xml
+- Robots: https://-425ac008.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-425ac008.zappy5.app/llms-full.txt
